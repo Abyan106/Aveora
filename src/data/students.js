@@ -3,7 +3,7 @@ const students = [
     id: 1,
     name: "Abyan",
     class: "A",
-    image: "./src/assets/orang.png",
+    image: "./assets/orang.png",
     quote: "Catch the moment, not the perfection.",
     instagram: "https://instagram.com/username_abyan"
   },

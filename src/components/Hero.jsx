@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import bgImage from "../assets/bg.jpg";
+import bgImage from "./assets/bg.jpg";
 
 function Hero() {
   const scrollToAbout = () => {
