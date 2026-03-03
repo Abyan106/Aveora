@@ -13,7 +13,7 @@ function Hero() {
     >
       {/* Background Image */}
       <img
-        src="/Aveora/public/assets/bg.jpg"
+        src="./public/assets/bg.jpg"
         alt="Aveora Background"
         className="absolute inset-0 w-full h-full object-cover brightness-[0.45]"
       />
