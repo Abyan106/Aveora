@@ -45,7 +45,7 @@ function About() {
           {/* Image */}
           <div className="w-full md:w-auto max-w-md">
             <img
-              src="./public/assets/logo.jpg"
+              src="../assets/logo.jpg"
               alt="Aveora 2026"
               className="w-full h-auto rounded-xl shadow-md"
             />
