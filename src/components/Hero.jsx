@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import bgImage from "./assets/bg.jpg";
 
 function Hero() {
   const scrollToAbout = () => {
@@ -14,7 +13,7 @@ function Hero() {
     >
       {/* Background Image */}
       <img
-        src={bgImage}
+        src="/Aveora/assets/bg.jpg"
         alt="Aveora Background"
         className="absolute inset-0 w-full h-full object-cover brightness-[0.45]"
       />

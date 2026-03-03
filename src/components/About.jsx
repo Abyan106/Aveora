@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import logo from "../assets/logo.jpg";
 
 function About() {
   const fadeInUp = {
@@ -46,7 +45,7 @@ function About() {
           {/* Image */}
           <div className="w-full md:w-auto max-w-md">
             <img
-              src={logo}
+              src="/Aveora/assets/logo.jpg"
               alt="Aveora 2026"
               className="w-full h-auto rounded-xl shadow-md"
             />
