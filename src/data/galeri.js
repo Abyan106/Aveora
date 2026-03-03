@@ -1,7 +1,7 @@
 const galeri = [
   {
     id: 1,
-    image: "/assets/bg.jpg",
+    image: "/Aveora/assets/bg.jpg",
     caption: "Hari pertama ospek."
   },
   {
