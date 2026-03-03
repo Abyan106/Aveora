@@ -1,0 +1,28 @@
+@import "tailwindcss";
+* {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel Decorative', cursive !important;
+}
+
+h1.font-cinzel {
+  line-height: 1.2;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
